@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/omarmani" target="blank"><img src="https://img.shields.io/twitter/follow/omarmani?logo=twitter&style=for-the-badge" alt="omarmani" /></a> </p>
 
-- 📫 How to reach me **omarmani2016@gmail.com**
+- 📫 How to reach me **omarmani@digitalmarketmani.store**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
