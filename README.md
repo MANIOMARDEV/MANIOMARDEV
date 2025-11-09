@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar mani</h1>
-<h3 align="center">I'm Full stack developer (python,mern,java)</h3>
+<h3 align="center">I'm Full-Stack Developer helping businesses grow online.
+I build fast, responsive, and scalable websites using Python, MERN, and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maniomardev&label=Profile%20views&color=0e75b6&style=flat" alt="maniomardev" /> </p>
 
